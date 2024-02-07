@@ -6,7 +6,7 @@ const DisplayCategoriesPage = () => {
   return (
     <PageContainer>
       <Text
-        size={35}
+        size={25}
         weight={700}
         mb={20}
         sx={(theme) => ({
