@@ -1,4 +1,4 @@
-# Expense Tracker App: Overview
+# Monitor your Expenses App: Overview
 
 ## Deployment
 This app is being deployed using Netlify  
